@@ -1,3 +1,7 @@
+# Learning redux for react for the first time.
+
+# Here is the link to the react redux crash course by Brad Traversy: https://www.youtube.com/watch?v=93p3LxR9xfM&t=203s.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
